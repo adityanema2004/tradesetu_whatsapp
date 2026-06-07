@@ -15,7 +15,7 @@ Thumbs.db
 .project
 .classpath
 .settings/
-
+node_modules
 # =========================
 # Logs
 # =========================
@@ -34,6 +34,7 @@ pnpm-debug.log*
 .env.development.local
 .env.test.local
 .env.production.local
+node_modules
 
 # =========================
 # Java / Spring Boot
